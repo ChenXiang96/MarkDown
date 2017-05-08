@@ -12,7 +12,7 @@
 
 
 
-![卧虎藏龙](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254767981&di=8a867d05aacc8ea2d52637061f0da00a&imgtype=0&src=http%3A%2F%2Fy2.ifengimg.com%2Fe7f199c1e0dbba14%2F2012%2F0924%2Frdn_506011b66260b.jpg) 
+![卧虎藏龙](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494255267721&di=e9373d886234ae75348f8ccc0b34820c&imgtype=0&src=http%3A%2F%2Fimg.helpweixin.com%2Fupload%2Fcontent%2F2%2F114%2F2114925_4.jpg) 
 
 *2.《喜剧之王-配乐Here we are again》* 
 
