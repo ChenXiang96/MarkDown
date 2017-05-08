@@ -42,6 +42,7 @@
 # 5.	MarkDown的区块元素和区段元素分别包含哪些？ 
 
 *区块元素*： 
+
 1.MarkDown段落和换行
 
 2.MarkDown标题 
@@ -55,7 +56,6 @@
 6.MarkDown分隔线 
 
 *区段元素*： 
-
 
 1.MarkDown链接 
 
