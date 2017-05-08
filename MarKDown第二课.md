@@ -22,6 +22,8 @@
 
 ![喜剧之王](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494254695046&di=6fd53bec9b104ebeeff25f078fcb10a9&imgtype=0&src=http%3A%2F%2Fs10.sinaimg.cn%2Fmw690%2F003P7tt0gy6P9D6tbcZa9) 
 
+3.<font color=red size=6 face=“黑体”>字体颜色</font>
+
 
 
 
