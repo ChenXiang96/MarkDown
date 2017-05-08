@@ -1,6 +1,6 @@
 # 用MarkDown添加图片，链接以及代码 
 
-##使用MarkDown添加图片 
+## 使用MarkDown添加图片 
 
 **我剪辑的作品：** 
 
