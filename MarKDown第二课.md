@@ -28,7 +28,7 @@
 
 <http://www.bilibili.com/video/av8189202/> 
 
-![BlackPink](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494256200101&di=3ffee7acdb73314a9c94f1e1b4a0b5d5&imgtype=0&src=http%3A%2F%2Fimg.mshishang.com%2Fpics%2F2016%2F0830%2F20160830115344180.jpg) 
+![BlackPink](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1494256336767&di=04a877569be061be8a26f14be3324bef&imgtype=0&src=http%3A%2F%2Fimg.mshishang.com%2Fpics%2F2016%2F0830%2F20160830115344180.jpg) 
 
 
 
